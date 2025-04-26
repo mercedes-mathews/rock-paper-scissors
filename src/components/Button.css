@@ -1,0 +1,10 @@
+.custom-button {
+  border-radius: 10px;
+  border: 3px rgb(255, 124, 146) solid;
+  padding: 10px 20px;
+  width: 10rem;
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(252, 104, 129);
+  background-color: pink;
+}
